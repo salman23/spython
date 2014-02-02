@@ -1,0 +1,8 @@
+ python argparsingEx.py
+ python argparsingEx.py -mailto 'someone@example.com'
+ python argparsingEx.py -mailfrom 'someone@example.com'
+ python argparsingEx.py -fromdate '14-Jan-2014'
+ python argparsingEx.py -status unread
+
+by default searches the directory and only writes file if there is no file
+ 
