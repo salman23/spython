@@ -10,4 +10,4 @@ def is_palindrome(st):
             st = st[1:-1]
             return is_palindrome(st)
                 
-print is_palindrome(st)         
+print is_palindrome(st)
